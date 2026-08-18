@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 109,
+    "height" : 145
+  }, {
+    "width" : 217,
+    "height" : 289
+  }, {
+    "width" : 434,
+    "height" : 578
+  }, {
+    "width" : 867,
+    "height" : 1156
+  }, {
+    "width" : 1734,
+    "height" : 2312
+  }, {
+    "width" : 3468,
+    "height" : 4624
+  } ],
+  "profile" : "level0",
+  "width" : 3468,
+  "id" : "https://irisbox.github.io/Trondheim-Derive/images/LIBER-2026-Derive-T2-027",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 4624
+}
